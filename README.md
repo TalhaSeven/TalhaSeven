@@ -77,8 +77,8 @@ I'm a passionate Full Stack Web Developer with a strong focus on creating respon
 
 ## 🔗 Connect With Me
 <div align="center">
-  <a href="https://linkedin.com/in/talhaseven"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://talhaseven.com"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>
+  <a href="https://linkedin.com/in/talhaseven" target=_blank><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://talhaseven.com" target=_blank><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>
 </div>
 
 <div align="center">
