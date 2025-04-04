@@ -55,6 +55,9 @@ I'm a passionate Full Stack Web Developer with a strong focus on creating respon
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TalhaSeven&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
+</div>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TalhaSeven&theme=react&hide_border=true" alt="GitHub Streak" height="170"/>
 </div>
 
