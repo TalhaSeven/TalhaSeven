@@ -30,14 +30,14 @@
 const talha: Developer = {
   role: "Full Stack Web Developer",
   experience: "5+ years",
-  location: "Turkey 🇹🇷",
+  location: "Germany 🇩🇪",
   currentFocus: ["E-commerce Platforms", "AI-Powered Web Apps"],
   languages: ["TypeScript", "JavaScript"],
   frontend: ["React", "Next.js", "Redux", "Zustand"],
   backend: ["Node.js", "Express", "GraphQL", "REST API"],
   databases: ["MongoDB", "PostgreSQL", "MySQL", "Prisma"],
-  devOps: ["Docker", "AWS", "Vercel", "CI/CD"],
-  testing: ["Jest", "Cypress"],
+  devOps: [ "AWS", "Vercel", "CI/CD"],
+  testing: ["Cypress"],
   passions: ["Clean Architecture", "DX & UX", "Performance"],
 };
 ```
