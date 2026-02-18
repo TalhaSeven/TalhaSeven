@@ -65,95 +65,53 @@ const talha: Developer = {
 </div>
 
 <div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🚌 Lojiper - Bus Ticket Booking</h3>
-
-<div align="center">
+<h3>🚌 Lojiper - Bus Ticket Booking</h3>
 <a href="https://lojiper-new-task.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Preview-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
 <a href="https://github.com/TalhaSeven/lojiper-new-task" target="_blank"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/></a>
-</div>
-
-<br/>
-
-<p align="center">Full-featured bus ticket booking system with <strong>real-time seat selection</strong>, gender-based seating rules, payment simulation & glassmorphism UI.</p>
-
-<p align="center">
+<p>Full-featured bus ticket booking system with <strong>real-time seat selection</strong>, gender-based seating rules, payment simulation & glassmorphism UI.</p>
+<p>
 <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/Context_API-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 </p>
 
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">🏠 Inohom - Smart Home Panel</h3>
-
-<div align="center">
-<a href="https://inohom-new-task.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Preview-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
-<a href="https://github.com/TalhaSeven/inohom-new-task" target="_blank"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/></a>
-</div>
-
 <br/>
 
-<p align="center">Smart home scenario control panel with <strong>automated device workflows</strong>, drag-and-drop ordering, delay timers & filtering.</p>
-
-<p align="center">
+<h3>🏠 Inohom - Smart Home Panel</h3>
+<a href="https://inohom-new-task.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Preview-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+<a href="https://github.com/TalhaSeven/inohom-new-task" target="_blank"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/></a>
+<p>Smart home scenario control panel with <strong>automated device workflows</strong>, drag-and-drop ordering, delay timers & filtering.</p>
+<p>
 <img src="https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind_4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/React_Hooks-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 </p>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">📋 Kanban Board</h3>
-
-<div align="center">
-<a href="https://kanbon-board.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Preview-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
-<a href="https://github.com/TalhaSeven/KanbonBoard" target="_blank"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/></a>
-</div>
-
 <br/>
 
-<p align="center">Trello-like project management board with <strong>drag-and-drop</strong> columns & tasks, inline editing and fully responsive UI.</p>
-
-<p align="center">
+<h3>📋 Kanbon Board</h3>
+<a href="https://kanbon-board.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Preview-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+<a href="https://github.com/TalhaSeven/KanbonBoard" target="_blank"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/></a>
+<p>Trello-like project management board with <strong>drag-and-drop</strong> columns & tasks, inline editing and fully responsive UI.</p>
+<p>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/dnd--kit-FF6B6B?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
 </p>
 
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">🛢️ Drill AI - Intelligence Platform</h3>
-
-<div align="center">
-<a href="https://oil-drilling-dashboard-blue.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Preview-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
-<a href="https://github.com/TalhaSeven" target="_blank"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/></a>
-</div>
-
 <br/>
 
-<p align="center">AI-powered oil drilling intelligence dashboard with <strong>well monitoring</strong>, data visualization & integrated AI chatbot.</p>
-
-<p align="center">
+<h3>🛢️ Drill AI - Intelligence Platform</h3>
+<a href="https://oil-drilling-dashboard-blue.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Preview-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+<a href="https://github.com/TalhaSeven" target="_blank"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/></a>
+<p>AI-powered oil drilling intelligence dashboard with <strong>well monitoring</strong>, data visualization & integrated AI chatbot.</p>
+<p>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/AI_Integration-FF6F00?style=flat-square&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Data_Viz-4FC08D?style=flat-square&logo=chart.js&logoColor=white"/>
 </p>
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -296,17 +254,10 @@ const talha: Developer = {
   &nbsp;Let's Connect & Build Together&nbsp;
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"/>
 </h3>
+<p>Find all contact links at the top section.</p>
 
-<a href="https://linkedin.com/in/talhaseven"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-<a href="https://medium.com/@talhaseven"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>&nbsp;
-<a href="https://talhaseven.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>&nbsp;
-<a href="mailto:talhaseven3@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-
-<br/><br/>
 
 ⭐ From [TalhaSeven](https://github.com/TalhaSeven) with ❤️
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58A6FF&height=120&section=footer" width="100%" alt="Footer"/>
 

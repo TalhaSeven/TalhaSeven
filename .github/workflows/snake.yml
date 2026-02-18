@@ -5,9 +5,17 @@ on:
     - cron: "0 */12 * * *"  # Runs every 12 hours
   workflow_dispatch:  # Allows manual trigger
 
+permissions:
+  contents: write
+
+concurrency:
+  group: snake-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: Generate Snake Game
         uses: Platane/snk/svg-only@v3
