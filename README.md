@@ -1,98 +1,323 @@
-# <div align="center">👨‍💻 Talha Seven | Full Stack Web Developer 🚀</div>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Node.js+%26+React+Specialist;Always+Learning+New+Technologies" alt="Typing SVG" />
+
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58A6FF&height=230&section=header&text=Talha%20Seven&fontSize=55&fontColor=58A6FF&fontAlignY=32&desc=Full%20Stack%20Web%20Developer&descSize=22&descColor=c9d1d9&descAlignY=52&animation=fadeIn" width="100%" alt="Header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&lines=%F0%9F%92%BB+5%2B+Years+of+Development+Experience;%E2%9A%9B%EF%B8%8F+React+%26+Next.js+Specialist;%F0%9F%94%A7+Node.js+%26+Express+Backend+Developer;%F0%9F%9B%92+Building+E-Commerce+Platforms;%F0%9F%9A%80+TypeScript+%7C+GraphQL+%7C+Docker)](https://git.io/typing-svg)
+
+<br/>
+
+<a href="https://linkedin.com/in/talhaseven"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="https://medium.com/@talhaseven"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>&nbsp;
+<a href="https://talhaseven.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>&nbsp;
+<a href="mailto:talhaseven@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=TalhaSeven&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views"/>
+
 </div>
 
-## 🧠 About Me
+<br/>
 
-> *"The only way to do great work is to love what you do."* – Steve Jobs
+<!-- ABOUT ME -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"/>
+    &nbsp;About Me&nbsp;
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"/>
+  </h2>
+</div>
 
-I'm a passionate Full Stack Web Developer with a strong focus on creating responsive, user-friendly web applications. My journey in software development started at an early age, and I've been continuously expanding my skills ever since.
+```typescript
+const talha: Developer = {
+  role: "Full Stack Web Developer",
+  experience: "5+ years",
+  location: "Turkey 🇹🇷",
+  currentFocus: ["E-commerce Platforms", "AI-Powered Web Apps"],
+  languages: ["TypeScript", "JavaScript"],
+  frontend: ["React", "Next.js", "Redux", "Zustand"],
+  backend: ["Node.js", "Express", "GraphQL", "REST API"],
+  databases: ["MongoDB", "PostgreSQL", "MySQL", "Prisma"],
+  devOps: ["Docker", "AWS", "Vercel", "CI/CD"],
+  testing: ["Jest", "Cypress"],
+  passions: ["Clean Architecture", "DX & UX", "Performance"],
+};
+```
 
-- 🔭 Currently working on **React & Node.js** projects
-- 🌱 Always exploring **emerging technologies** and best practices
-- 🤝 Open to collaborate on projects that challenge and help me grow
-- 💬 Feel free to ask me about my code or any tech-related topics
-- ⚡ Fun fact: **Learning never ends** in the world of development
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaSeven&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&layout=compact&langs_count=8&card_width=340" alt="Top Languages"/>
+
+- 🔭 Currently building **production-ready e-commerce platforms**
+- 🌱 Exploring **Next.js 16, AI integrations & emerging web tech**
+- ✍️ Writing tech articles on **[Medium](https://medium.com/@talhaseven)**
+- 🤝 Open to collaborate on **challenging full-stack projects**
+- 💬 Ask me about **React, Node.js, TypeScript, GraphQL**
+- 🐳 Containerizing apps with **Docker & deploying on AWS**
+- ⚡ Fun fact: **Learning never ends in dev world**
+
+<br clear="both"/>
 
 ---
 
-## 🛠️ Tech Stack
+<!-- FEATURED PROJECTS -->
+<div align="center">
+  <h2>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"/>
+    &nbsp;Featured Projects&nbsp;
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"/>
+  </h2>
+</div>
 
 <div align="center">
-  
-### 🧩 Frontend
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) 
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🗃️ Databases
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+<h3 align="center">🚌 Lojiper - Bus Ticket Booking</h3>
 
-### 🎨 Styling & UI
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+<div align="center">
+<a href="https://lojiper-new-task.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Preview-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+<a href="https://github.com/TalhaSeven/lojiper-new-task" target="_blank"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/></a>
+</div>
 
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+<br/>
+
+<p align="center">Full-featured bus ticket booking system with <strong>real-time seat selection</strong>, gender-based seating rules, payment simulation & glassmorphism UI.</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Context_API-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🏠 Inohom - Smart Home Panel</h3>
+
+<div align="center">
+<a href="https://inohom-new-task.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Preview-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+<a href="https://github.com/TalhaSeven/inohom-new-task" target="_blank"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/></a>
+</div>
+
+<br/>
+
+<p align="center">Smart home scenario control panel with <strong>automated device workflows</strong>, drag-and-drop ordering, delay timers & filtering.</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Hooks-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">📋 Kanban Board</h3>
+
+<div align="center">
+<a href="https://kanbon-board.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Preview-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+<a href="https://github.com/TalhaSeven/KanbonBoard" target="_blank"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/></a>
+</div>
+
+<br/>
+
+<p align="center">Trello-like project management board with <strong>drag-and-drop</strong> columns & tasks, inline editing and fully responsive UI.</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/dnd--kit-FF6B6B?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🛢️ Drill AI - Intelligence Platform</h3>
+
+<div align="center">
+<a href="https://oil-drilling-dashboard-blue.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Preview-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+<a href="https://github.com/TalhaSeven" target="_blank"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/></a>
+</div>
+
+<br/>
+
+<p align="center">AI-powered oil drilling intelligence dashboard with <strong>well monitoring</strong>, data visualization & integrated AI chatbot.</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/AI_Integration-FF6F00?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Viz-4FC08D?style=flat-square&logo=chart.js&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
-
+<!-- TECH STACK -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TalhaSeven&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <h2>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"/>
+    &nbsp;Tech Stack&nbsp;
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"/>
+  </h2>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TalhaSeven&theme=react&hide_border=true" alt="GitHub Streak" height="170"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaSeven&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+<details open>
+<summary><b>🎨 Frontend</b></summary>
+<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+<img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logoColor=white" alt="Zustand"/>
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
+</details>
+
+<details open>
+<summary><b>🔧 Backend</b></summary>
+<br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
+</details>
+
+<details open>
+<summary><b>🗄️ Databases</b></summary>
+<br/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</details>
+
+<details open>
+<summary><b>💅 Styling & UI</b></summary>
+<br/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+<img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS"/>
+<img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+<img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components"/>
+</details>
+
+<details open>
+<summary><b>🧪 Testing</b></summary>
+<br/>
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/>
+</details>
+
+<details open>
+<summary><b>🐳 DevOps & Cloud</b></summary>
+<br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+</details>
+
+<details open>
+<summary><b>🛠️ Tools</b></summary>
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</details>
+
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+<!-- GITHUB ANALYTICS -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TalhaSeven&theme=discord&no-frame=true&no-bg=false&margin-w=6&margin-h=6&column=6" alt="GitHub Trophies"/>
+  <h2>📊 GitHub Analytics</h2>
+</div>
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TalhaSeven&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img height="180" src="https://streak-stats.demolab.com?user=TalhaSeven&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TalhaSeven&theme=github-dark&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=c9d1d9&area=true&area_color=58A6FF" width="95%" alt="Contribution Graph"/>
 </div>
 
 ---
 
-## 💡 Random Dev Quote
+<!-- SNAKE -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <h2>🐍 Snake Eating My Contributions</h2>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TalhaSeven/TalhaSeven/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TalhaSeven/TalhaSeven/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/TalhaSeven/TalhaSeven/output/github-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
 
-## 🔗 Connect With Me
+<!-- TROPHIES -->
 <div align="center">
-  <a href="https://linkedin.com/in/talhaseven" target=_blank ><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://talhaseven.com" target=_blank ><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>
+  <h2>🏆 GitHub Trophies</h2>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TalhaSeven&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
 
+<!-- DEV QUOTE -->
 <div align="center">
-  🙌 **Thanks for visiting my profile! Let's build something amazing together.**
+  <h2>💡 Random Dev Quote</h2>
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
+</div>
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+
+<h3>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"/>
+  &nbsp;Let's Connect & Build Together&nbsp;
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"/>
+</h3>
+
+<a href="https://linkedin.com/in/talhaseven"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="https://medium.com/@talhaseven"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>&nbsp;
+<a href="https://talhaseven.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>&nbsp;
+<a href="mailto:talhaseven3@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/><br/>
+
+⭐ From [TalhaSeven](https://github.com/TalhaSeven) with ❤️
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58A6FF&height=120&section=footer" width="100%" alt="Footer"/>
+
 </div>
