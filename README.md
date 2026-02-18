@@ -10,7 +10,7 @@
 <a href="https://linkedin.com/in/talhaseven"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
 <a href="https://medium.com/@talhaseven"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>&nbsp;
 <a href="https://talhaseven.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>&nbsp;
-<a href="mailto:talhaseven@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
+<a href="mailto:talhaseven3@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
 <img src="https://komarev.com/ghpvc/?username=TalhaSeven&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
@@ -42,7 +42,6 @@ const talha: Developer = {
 };
 ```
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaSeven&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&layout=compact&langs_count=8&card_width=340" alt="Top Languages"/>
 
 - 🔭 Currently building **production-ready e-commerce platforms**
 - 🌱 Exploring **Next.js 16, AI integrations & emerging web tech**
@@ -171,9 +170,10 @@ const talha: Developer = {
 
 <div align="center">
 
+<br/>
 <details open>
 <summary><b>🎨 Frontend</b></summary>
-<br/>
+
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -183,9 +183,10 @@ const talha: Developer = {
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
 </details>
 
+<br/>
 <details open>
 <summary><b>🔧 Backend</b></summary>
-<br/>
+
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
@@ -193,43 +194,46 @@ const talha: Developer = {
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
 </details>
 
+<br/>
 <details open>
 <summary><b>🗄️ Databases</b></summary>
-<br/>
+
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </details>
 
+<br/>
 <details open>
 <summary><b>💅 Styling & UI</b></summary>
-<br/>
+
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui"/>
+<img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white" alt="Radix UI"/>
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
 <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS"/>
 <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components"/>
 </details>
 
+<br/>
 <details open>
 <summary><b>🧪 Testing</b></summary>
-<br/>
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
 <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/>
 </details>
 
+<br/>
 <details open>
 <summary><b>🐳 DevOps & Cloud</b></summary>
-<br/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
 </details>
-
+<br/>
 <details open>
 <summary><b>🛠️ Tools</b></summary>
-<br/>
+
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
@@ -248,9 +252,7 @@ const talha: Developer = {
 </div>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TalhaSeven&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img height="180" src="https://streak-stats.demolab.com?user=TalhaSeven&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+  <img height="180" src="https://streak-stats.demolab.com?user=TalhaSeven&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="95%" alt="GitHub Streak"/>
 </div>
 
 <br/>
@@ -275,18 +277,6 @@ const talha: Developer = {
 </div>
 
 ---
-
-<!-- TROPHIES -->
-<div align="center">
-  <h2>🏆 GitHub Trophies</h2>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TalhaSeven&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" alt="GitHub Trophies"/>
-</div>
-
----
-
 <!-- DEV QUOTE -->
 <div align="center">
   <h2>💡 Random Dev Quote</h2>
